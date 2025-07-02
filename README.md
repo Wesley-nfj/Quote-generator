@@ -2,7 +2,7 @@
 
 This is a simple and user-friendly quote generator web application built with Streamlit.  It displays a random quote from a predefined list.
 
-**Try the app [HERE](http://127.0.0.1:5500/)
+Try the app [HERE](http://127.0.0.1:5500/)
 
 
 ## ✨ Features
